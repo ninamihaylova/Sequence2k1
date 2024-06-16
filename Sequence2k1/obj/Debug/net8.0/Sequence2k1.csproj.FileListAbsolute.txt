@@ -1,0 +1,14 @@
+C:\Users\ninag\RiderProjects\Sequence2k1\Sequence2k1\bin\Debug\net8.0\Sequence2k1.exe
+C:\Users\ninag\RiderProjects\Sequence2k1\Sequence2k1\bin\Debug\net8.0\Sequence2k1.deps.json
+C:\Users\ninag\RiderProjects\Sequence2k1\Sequence2k1\bin\Debug\net8.0\Sequence2k1.runtimeconfig.json
+C:\Users\ninag\RiderProjects\Sequence2k1\Sequence2k1\bin\Debug\net8.0\Sequence2k1.dll
+C:\Users\ninag\RiderProjects\Sequence2k1\Sequence2k1\bin\Debug\net8.0\Sequence2k1.pdb
+C:\Users\ninag\RiderProjects\Sequence2k1\Sequence2k1\obj\Debug\net8.0\Sequence2k1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ninag\RiderProjects\Sequence2k1\Sequence2k1\obj\Debug\net8.0\Sequence2k1.AssemblyInfoInputs.cache
+C:\Users\ninag\RiderProjects\Sequence2k1\Sequence2k1\obj\Debug\net8.0\Sequence2k1.AssemblyInfo.cs
+C:\Users\ninag\RiderProjects\Sequence2k1\Sequence2k1\obj\Debug\net8.0\Sequence2k1.csproj.CoreCompileInputs.cache
+C:\Users\ninag\RiderProjects\Sequence2k1\Sequence2k1\obj\Debug\net8.0\Sequence2k1.dll
+C:\Users\ninag\RiderProjects\Sequence2k1\Sequence2k1\obj\Debug\net8.0\refint\Sequence2k1.dll
+C:\Users\ninag\RiderProjects\Sequence2k1\Sequence2k1\obj\Debug\net8.0\Sequence2k1.pdb
+C:\Users\ninag\RiderProjects\Sequence2k1\Sequence2k1\obj\Debug\net8.0\Sequence2k1.genruntimeconfig.cache
+C:\Users\ninag\RiderProjects\Sequence2k1\Sequence2k1\obj\Debug\net8.0\ref\Sequence2k1.dll
